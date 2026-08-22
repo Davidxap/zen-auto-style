@@ -1,4 +1,13 @@
-# Zen Auto Style
+# Zen Auto Style — ARCHIVED
+
+> **⚠️ MOVED → [Davidxap/omarchy-zen](https://github.com/Davidxap/omarchy-zen) — `Omarchy Zen`**
+> This repository is **archived and no longer maintained**. The active plugin is **Omarchy Zen** (`io.github.davidxap.omarchy-zen`): `omarchy plugin add https://github.com/Davidxap/omarchy-zen.git --enable` (pure CSS, no extension, survives Zen updates — requires a Zen restart after `omarchy theme set`).
+>
+> **¿Quieres live-reload sin reiniciar?** Queda disponible la **versión legacy con extensión** en [`legacy/`](legacy/) (XPI + native host Python) que sí recarga en caliente, pero a costa de `xpinstall.signatures.required=false` + `extensions.experiments.enabled=true`. No recomendada. Úsala solo si priorizas no reiniciar.
+>
+> **Nuevo:** https://github.com/Davidxap/omarchy-zen | Marketplace: https://omarchyplugins.com
+
+---
 
 Synchronizes Omarchy's Pywal-generated color theme into Zen Browser using profile
 CSS. No extension, no native host, no privileged experiment APIs — just a managed
